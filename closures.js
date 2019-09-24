@@ -213,6 +213,8 @@ function secretNumber() {
   Fix the code below to log the desired output.
 */
 
+
+
 function timeOutCounter() {
   for (var i = 0; i <= 5; i++) {
     setTimeout(function() {
